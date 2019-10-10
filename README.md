@@ -1,5 +1,8 @@
 ## Count Surfers in the Water
 ### Description
+
+This project is subset of https://github.com/oownus/surfcam/tree/master/surfy
+
 This project is to count how many surfers in the water
 So you know the surfer traffic in the water.
 
@@ -298,7 +301,7 @@ Mask | Contour and Original combined
 ------------ | -------------
 <img src="./Images/Masked_Image.png" width="500" align="left" />|	<img src="./Images/Final_Image.png" width="500" align="left" />
 
-Now that you just need to put text on the image using cv2.putText as your will!
+Now you just need to put text on the image using cv2.putText as your will!
 
 
 ```python
