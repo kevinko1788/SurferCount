@@ -1,8 +1,6 @@
 ## Count Surfers in the Water
 ### Description
 
-This project is subset of https://github.com/oownus/surfcam/tree/master/surfy
-
 This project is to count how many surfers in the water
 So you know the surfer traffic in the water.
 
